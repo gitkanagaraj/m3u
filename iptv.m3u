@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8?checkedby:iptvcat.com
-https://list.iptvcat.com/my_list/s/5666810d05846be1e32bd49c1d5657ac.m3u8
-https://list.iptvcat.com/my_list/7adf483ed28fde5510d0207474ce0993.m3u8
-#EXTM3U
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="General",Vision (1080p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Xplore Channel
